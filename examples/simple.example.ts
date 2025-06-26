@@ -1,4 +1,4 @@
-import Pulse from '@pulsecron/pulse';
+import Pulse from '@yao-pulse/pulse';
 
 const mongoConnectionString = 'mongodb://localhost:27017/pulse';
 

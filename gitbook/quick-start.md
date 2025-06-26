@@ -3,7 +3,7 @@
 ### Installation
 
 ```bash
-npm i @pulsecron/pulse
+npm i @yao-pulse/pulse
 ```
 
 
@@ -11,7 +11,7 @@ npm i @pulsecron/pulse
 ### Example&#x20;
 
 ```typescript
-import Pulse from '@pulsecron/pulse';
+import Pulse from '@yao-pulse/pulse';
 
 const mongoConnectionString = 'mongodb://localhost:27017/pulse';
 

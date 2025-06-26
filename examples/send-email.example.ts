@@ -1,6 +1,6 @@
 import express from 'express';
 import nodemailer from 'nodemailer';
-import Pulse, { JobAttributesData } from '@pulsecron/pulse';
+import Pulse, { JobAttributesData } from '@yao-pulse/pulse';
 const app = express();
 const port = 3000; // You can choose any port that is free on your system
 
